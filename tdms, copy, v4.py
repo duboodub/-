@@ -4,7 +4,9 @@ Created on Tue Apr 13 16:27:28 2021
 
 @author: db
 """
-
+'''
+将测量的tdms文件转换成excel文件
+'''
 
 from openpyxl import Workbook
 import os
