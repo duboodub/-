@@ -4,10 +4,7 @@ Created on Mon May 10 17:43:40 2021
 
 @author: db
 """
-'''
-将测量的RHT数据excel.sheet 按照不同T拆分成若干sheets。
 
-'''
 import matplotlib.pyplot as plt 
 import pandas as pd
 from openpyxl import load_workbook

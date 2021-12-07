@@ -1,2 +1,2 @@
-# 实验数据处理
-实验数据处理，python程序
+# my-data-processing-program
+my data processing program
